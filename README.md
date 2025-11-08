@@ -3,10 +3,6 @@
 WeatherWise is a sleek, professional weather dashboard built as a single-page application. It provides real-time weather data with a focus on a highly interactive and polished user experience, featuring dynamic animated backgrounds, professional loading skeletons, and a smart, data-aware chatbot.
 
 This project is built with **pure, framework-free JavaScript, HTML, and CSS** to demonstrate core web development skills.
-
-![WeatherWise App Screenshot](https.i.imgur.com/your-screenshot-link.png)
-*(**Note:** Please replace the link above with a screenshot of your running application!)*
-
 ---
 
 ## ✨ Key Features
@@ -34,7 +30,7 @@ This project is built with **pure, framework-free JavaScript, HTML, and CSS** to
 
 This project is a single, self-contained HTML file.
 
-1.  **Get an API Key:** Sign up for a free account at [OpenWeatherMap](https://openweathermap.org/) to get your free API key.
+1. Open and enter Location.
 2.  **Paste the Key:** Open the `index.html` file in a code editor. Find the `<script>` tag at the bottom and paste your key into the `OPENWEATHERMAP_API_KEY` constant:
     ```javascript
     const OPENWEATHERMAP_API_KEY = "YOUR_API_KEY_HERE";
