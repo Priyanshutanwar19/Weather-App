@@ -24,21 +24,7 @@ This project is built with **pure, framework-free JavaScript, HTML, and CSS** to
     * Subtle "float" animation on the main weather icon.
     * Responsive design for desktop and mobile.
 
----
-
-## 🚀 How to Run
-
-This project is a single, self-contained HTML file.
-
-1. Open and enter Location.
-2.  **Paste the Key:** Open the `index.html` file in a code editor. Find the `<script>` tag at the bottom and paste your key into the `OPENWEATHERMAP_API_KEY` constant:
-    ```javascript
-    const OPENWEATHERMAP_API_KEY = "YOUR_API_KEY_HERE";
-    ```
-3.  **Run:** Simply open the `index.html` file in any modern web browser (like Chrome, Firefox, or Edge).
-
----
-
+--
 ## 🛠️ Technologies Used
 
 * **HTML5:** For the core structure and semantics.
