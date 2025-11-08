@@ -1,0 +1,2 @@
+# Weather App
+Lets you search for any city or use your current location.  Shows the current temperature, a 5-day forecast, and a 24-hour hourly forecast.  Provides detailed info like the precise AQI (Air Quality Index), UV Index, wind speed, and humidity.  Features a dynamic background that changes with the current weather.  Includes a smart chatbot to answer your questions about the forecast (like "Do I need an umbrella?").
